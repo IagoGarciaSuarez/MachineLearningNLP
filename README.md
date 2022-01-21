@@ -1,6 +1,8 @@
 # MachineLearningNLP
 Repository for the Natural Language Processing project made for Machine Learning 2021.
+
 Author: Iago García Suárez
+
 Link: https://github.com/IagoGarciaSuarez/MachineLearningNLP
 
 ## These files can be found in this repository:
